@@ -5,6 +5,10 @@
   "hexo": {
     "version": "3.7.1"
   },
+  "homepage": "https://jxsx.github.io/blog",
+  "scripts": {
+    "build": "hexo deploy",
+  },
   "dependencies": {
     "hexo": "^3.3.9",
     "hexo-asset-link": "^1.1.0",
@@ -25,6 +29,5 @@
   "devDependencies": {
     "hexo-generator-baidu-sitemap": "^0.1.6",
     "hexo-generator-sitemap": "^1.2.0"
-  },
-  "homepage": "https://jxsx.github.io/blog"
+  }
 }
