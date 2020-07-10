@@ -83,32 +83,3 @@ search:
   format: html
   limit: 10000
   
-  
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-#deploy:
-# type: git
-# repo: git@github.com:JxSx/JxSx.github.io.git
-# branch: master
-  
-# deploy:
-  # type: ftpsync
-  # host: <host>            #主机地址
-  # user: <user>            #用户名
-  # pass: <password>        #密码
-  # remote: [remote]        #上传到空间的指定目录。比如/public_html/。默认为/
-  # port: [port]            #端口，默认为21
-  # ignore: [ignore]        #忽略的文件
-  # connections: [connections]  #使用的连接数，默认1
-  # verbose: [true|false]   #显示调试信息，默认false
-##Docs:https://help.aliyun.com/knowledge_detail/36241.html
-##Docs:https://help.aliyun.com/knowledge_detail/36244.html?spm=a2c4g.11186623.4.2.6f145fa9pu1pU2
-# deploy:
-#   type: ftpsync
-#   host: 60.205.48.113
-#   user: bxu2359780330
-#   pass: '@bama19911229'
-#   remote: /htdocs/
-#   port: 21
-#   connections: 2
-#   verbose: false
