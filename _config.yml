@@ -84,5 +84,5 @@ search:
   limit: 10000
 deploy:
   type: git
-  repo: https://github.com/JxSx/JxSx.github.io.git
+  repo: git@github.com:JxSx/JxSx.github.io.git
   branch: master
