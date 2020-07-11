@@ -35,6 +35,7 @@ jobs:
         echo ${HEXO_DEPLOY_PRIVATE_KEY} > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+        cat ~/.ssh/id_rsa
     - name: Setup Git Infomation
       run: |
         git config --global user.name 'JxSx'
