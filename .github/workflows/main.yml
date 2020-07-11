@@ -1,5 +1,5 @@
 name: Hexo Action
-  uses: actions/checkout@master
+  uses: sma11black/hexo-action@v1.0.1
   with:
     # Github user name
     user_name: JxSx # default is github-actions[bot]
