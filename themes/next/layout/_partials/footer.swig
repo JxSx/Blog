@@ -1,4 +1,5 @@
 <div class="copyright" >
+  <a href="https://hitcount.io" target="__blank"><img alt="Hit counter" src="https://hitcount.io/api/efhmIIV9Z?initial=5000" /></a>
   {% set current = date(Date.now(), "YYYY") %}
   &copy; {% if theme.since and theme.since != current %} {{ theme.since }} &mdash; {% endif %}
   <span itemprop="copyrightYear">{{ current }}</span>
