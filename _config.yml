@@ -82,7 +82,14 @@ search:
   field: post
   format: html
   limit: 10000
+
 deploy:
   type: git
   repo: git@github.com:JxSx/JxSx.github.io.git
   branch: master
+
+# hexo-admin authentification
+admin:
+  username: jiaxin
+  password_hash: $2a$10$7Hssg7DVyfOZhHZLX6rSOuU8dv9aRWgOrT4Vo6sSTy/FB/LY46hgK
+  secret: jiaxin
