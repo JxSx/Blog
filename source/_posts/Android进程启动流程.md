@@ -1,9 +1,10 @@
 ---
 title: Android进程启动流程
-date: 2017-07-23 15:48:09
-tags: 
-- 进程
+tags:
+  - 进程
 categories: Android
+abbrlink: c9c5165b
+date: 2017-07-23 15:48:09
 ---
 > [理解Android进程创建流程](http://gityuan.com/2016/03/26/app-process-create/)
 [理解Android进程启动之全过程](http://gityuan.com/2016/10/09/app-process-create-2/)

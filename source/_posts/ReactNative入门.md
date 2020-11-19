@@ -1,10 +1,10 @@
 ---
 title: ReactNative入门
-date: 2016-10-14 16:42:00
-tags: 
-- ReactNative环境搭建
+tags:
+  - ReactNative环境搭建
 categories: ReactNative
-
+abbrlink: 9437ab1b
+date: 2016-10-14 16:42:00
 ---
 目前主流应用程序大体分为三类：`Native App`, `Web App`, `Hybrid App`.
 ![示例（来源网络）.png](93730-adb52d444d71a1ad.webp)

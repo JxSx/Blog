@@ -1,10 +1,11 @@
 ---
 title: 《Android开发艺术探索》——View的事件体系
+tags:
+  - View
+  - Scroller
+categories: Android
+abbrlink: 236631f
 date: 2017-03-13 16:42:00
-tags: 
-- View
-- Scroller
-categories: Android  
 ---
 # View的事件体系
 -  自定义控件

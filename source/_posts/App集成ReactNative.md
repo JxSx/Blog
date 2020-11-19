@@ -1,9 +1,10 @@
 ---
 title: App集成ReactNative
-date: 2016-10-21 16:17:59
 tags:
-- ReactNative
+  - ReactNative
 categories: ReactNative
+abbrlink: c7347a69
+date: 2016-10-21 16:17:59
 ---
 1. 打开`cmd`，进入工程目录
 

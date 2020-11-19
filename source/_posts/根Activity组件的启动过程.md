@@ -1,9 +1,10 @@
 ---
 title: 根Activity组件的启动过程
-date: 2017-04-13 16:42:00
 tags:
-- Activity启动过程
-categories: Android  
+  - Activity启动过程
+categories: Android
+abbrlink: b1da46a9
+date: 2017-04-13 16:42:00
 ---
 图例只描述了Activity组件在进程外的启动过程，即从Launcher点击图标启动MainActivity的过程。
 

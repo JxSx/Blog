@@ -1,10 +1,11 @@
 ---
 title: Android-Architecture之todo-mvp
-date: 2017-02-28 17:05:16
 tags:
-- Architecture
-- MVP
+  - Architecture
+  - MVP
 categories: Android
+abbrlink: 29f4a5f2
+date: 2017-02-28 17:05:16
 ---
 > [todo-mvp官方地址](https://github.com/googlesamples/android-architecture/tree/todo-mvp)
 

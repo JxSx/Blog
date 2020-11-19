@@ -1,9 +1,10 @@
 ---
 title: Android系统全貌
-date: 2017-09-12 16:13:31
 tags:
-- Android系统全貌
+  - Android系统全貌
 categories: Android
+abbrlink: 7e3d7b9f
+date: 2017-09-12 16:13:31
 ---
 >转自Gityuan的[Android开篇](http://gityuan.com/android/#syscall--jni)，对自我学习作进一步整理。
 

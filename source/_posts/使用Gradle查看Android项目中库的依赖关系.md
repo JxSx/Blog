@@ -1,10 +1,11 @@
 ---
 title: 使用Gradle查看Android项目中库的依赖关系
-date: 2017-08-07 15:52:00
-tags: 
-- Gradle
-- dependencies 
+tags:
+  - Gradle
+  - dependencies
 categories: Android
+abbrlink: 7ae8874e
+date: 2017-08-07 15:52:00
 ---
 在`Terminal`中，可以通过 `gradle` 的命令查看项目中所使用库的版本，并且可以更加直观**看到库之间的依赖关系**。同时它们可以帮助您跟踪并**解决与库版本冲突**有关的任何问题。[Building Android apps](https://guides.gradle.org/building-android-apps/)
 

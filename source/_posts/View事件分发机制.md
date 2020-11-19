@@ -1,10 +1,11 @@
 ---
 title: 《Android开发艺术探索》——View事件分发机制
+tags:
+  - View事件
+  - 分发机制
+categories: Android
+abbrlink: b516dca1
 date: 2017-03-14 16:42:00
-tags: 
-- View事件
-- 分发机制
-categories: Android  
 ---
 # 概念
 **同一个事件序列**指的是从手指触摸屏幕的那一刻开始，到手指离开屏幕的那一刻结束，在这个过程产生的一系列事件。以down事件开始，可能经过n多个move事件，最终以up事件结束。

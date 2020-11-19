@@ -1,10 +1,11 @@
 ---
 title: Android-Architecture之todo-mvp-clean
-date: 2017-03-13 17:05:16
 tags:
-- Architecture
-- MVP
+  - Architecture
+  - MVP
 categories: Android
+abbrlink: e367b974
+date: 2017-03-13 17:05:16
 ---
 
 > Domain Layer拥有所有的业务逻辑。Domain层从命名为User Case或者interactor的类开始，这些类由展示层（Presenter）来使用。这些User Case代表开发人员可以从展示层（Presenter）执行的所有可能的操作。

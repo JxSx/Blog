@@ -1,10 +1,11 @@
 ---
 title: 使用Hexo在GitHub上构建个人博客
+tags:
+  - 博客
+  - Hexo
+categories: 日志
+abbrlink: fdd817a6
 date: 2016-05-05 11:01:51
-tags: 
-- 博客
-- Hexo
-categories: 日志  
 ---
 # Hexo介绍
 Hexo 是一个简单地、轻量地、基于Node的一个静态博客框架。通过Hexo我们可以快速创建自己的博客。
